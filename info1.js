@@ -1,0 +1,13 @@
+[
+{
+    "name": "Megadeth",
+    "bio":"Megadeth is an American heavy metal band from Los Angeles, California. Guitarist Dave Mustaine and bassist David Ellefson formed the band in 1983 shortly after Mustaine's dismissal from Metallica. Along with Metallica, Anthrax, and Slayer, Megadeth is one of the 'Big Four' of American thrash metal, responsible for its development and popularization. Their music features complex arrangements and fast rhythm sections, and lyrical themes of death, war, politics, and religion. Megadeth has sold over 38 million records worldwide,[1] earned platinum certification in the United States for six of its fifteen studio albums, and received twelve Grammy nominations. Megadeth won its first Grammy Award in 2017 for the song 'Dystopia' in the Best Metal Performance category. The band's mascot, Vic Rattlehead, regularly appears on album artwork and live shows. The group has drawn controversy for its music and lyrics, including album bans and canceled concerts; MTV refused to play two of the band's music videos that the network considered to condone suicide.",
+    "bandimageurl":"https://images.wallpaperscraft.com/image/megadeth_hair_jackets_graphics_tie_6137_1600x900.jpg"
+},
+{
+    "name": "Pink Floyd",
+    "bio":"Pink Floyd were an English rock band formed in London in 1965. They achieved international acclaim with their progressive and psychedelic music. Distinguished by their philosophical lyrics, sonic experimentation, extended compositions, and elaborate live shows, they are one of the most commercially successful and influential groups in popular music history. Pink Floyd were founded by students Syd Barrett on guitar and lead vocals, Nick Mason on drums, Roger Waters on bass and vocals, and Richard Wright on keyboards and vocals. They gained popularity performing in London's underground music scene during the late 1960s, and under Barrett's leadership released two charting singles and a successful debut album, The Piper at the Gates of Dawn (1967). Guitarist and vocalist David Gilmour joined in December 1967; Barrett left in April 1968 due to deteriorating mental health. Waters became the band's primary lyricist and conceptual leader, devising the concepts behind their albums The Dark Side of the Moon (1973), Wish You Were Here (1975), Animals (1977), The Wall (1979) and The Final Cut (1983). The Dark Side of the Moon and The Wall became two of the best-selling albums of all time.",
+    "bandimageurl":"https://ichef.bbci.co.uk/images/ic/960x540/p01bqhlb.jpg"
+}
+
+]
