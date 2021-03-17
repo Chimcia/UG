@@ -1,5 +1,0 @@
-Zadanie nie wyszło,
-tekstury oszalały, pojawiaja się randomowe placeholdery dla kwiatków
- jednak przez dziwny błąd tekstur zadanie nie wyświetla się poprawnie, 
- a ma również zaimplementowane światło(1). Spróbuję poprawić ale nie wiem 
-czy dam radę do jutra. Więc wstawiam najbardziej "działąjącą" wersję.
