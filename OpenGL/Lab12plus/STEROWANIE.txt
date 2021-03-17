@@ -1,0 +1,6 @@
+lewy przycisk myszy - zaznaczenie pojedyńczego obiektu
+shift + l.p.myszy - zaznaczanie wielu obiektów
+lewy lub prawy przycisk myszy (nie na obiekcie) - usuniecie zaznaczeń
+Q - usunięcie zaznaczonego obiektu
+R - dodanie nowego obiektu.
+E - dodaje obiekt w miejscu ostatniego kliknięcia.
