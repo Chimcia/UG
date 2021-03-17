@@ -1,0 +1,9 @@
+TRYB 1 - Game Mode
+poruszanie WYŁĄCZNIE Player'em
+Camera przypięta pod player?
+reakcje na przedmioty
+zmiana koloru???
+3 typy obiektów(BYR)
+TRYB 2 - Setup
+ustawianie, dodawanie i przemieszczanie przedmiotów. w T1 powinno byc zablokowane.
+Wyłączone poruszanie postaci.
